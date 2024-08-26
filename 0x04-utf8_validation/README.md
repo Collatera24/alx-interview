@@ -1,3 +1,7 @@
+
+UTF-8 Validation Project;
+
+
 For the “0x04. UTF-8 Validation” project, you will need to apply your knowledge in bitwise operations, understanding of the UTF-8 encoding scheme, and Python programming skills to validate whether a given dataset represents a valid UTF-8 encoding. Here’s a list of concepts and resources that will be helpful:
 
 Concepts Needed:
@@ -36,6 +40,9 @@ The first line of all your files should be exactly #!/usr/bin/python3
 A README.md file, at the root of the folder of the project, is mandatory
 Your code should use the PEP 8 style (version 1.7.x)
 All your files must be executable
+
+
+Tasks;
 
 
 0. UTF-8 Validation:
